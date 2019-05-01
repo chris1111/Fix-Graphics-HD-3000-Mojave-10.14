@@ -4,6 +4,8 @@
 
 ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/webp_n11.gif)
 
+### My result in macOS Mojave 10.14.5 beta (18F127a)
+- ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/screen26.jpg)
 
 ### A macOS Package to activate Intel HD 3000 graphics in macOS Mojave
 - Testing on Hackintosh

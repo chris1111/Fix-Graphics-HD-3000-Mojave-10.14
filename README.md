@@ -15,4 +15,4 @@
 
 
 
-### Download ➤ [Fix Graphics HD 3000 Mojave-10.14.pkg.zip]()
+### Download ➤ [Fix Graphics HD 3000 Mojave-10.14.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14/releases/tag/V1)

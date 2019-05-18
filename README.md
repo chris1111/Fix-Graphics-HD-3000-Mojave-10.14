@@ -4,7 +4,7 @@
 
 ### A macOS Package to activate Intel HD 3000 graphics in macOS Mojave
 - Testing on Hackintosh
-- Working for macOS Mojave 10.14.(0-1-2-3-4-5) Including Beta
+- Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) Including Beta
 
 #### Credit: 
 - Fix/Patch: dosdude1, AsentientBot

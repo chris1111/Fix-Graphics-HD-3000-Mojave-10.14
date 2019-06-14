@@ -1,4 +1,4 @@
-# Fix Graphics HD 3000 Mojave-10.14
+# Fix Graphics HD 3000 Mojave-10.14 & macOS Catalina-10.15
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/25010.png)
 
@@ -28,4 +28,4 @@
 
 ### Download ➤ [Fix Graphics HD 3000 Mojave-10.14.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14/releases/tag/V1)
 
-### Download ➤ [Fix Graphics HD 3000 Catalina-10.15.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14/releases/tag/V1)
+### Download ➤ [Fix Graphics HD 3000 Catalina-10.15.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14-Catalina-10.15/releases/tag/V2)

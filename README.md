@@ -1,10 +1,10 @@
 # Fix Graphics HD 3000 Mojave-10.14
 
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/intel10.png)
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/25010.png)
 
-### A macOS Package to activate Intel HD 3000 graphics in macOS Mojave
+### A macOS Package to activate Intel HD 3000 graphics in macOS Mojave ans macOS Catalina
 - Testing on Hackintosh
-- Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) Including Beta
+- Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) macOS Catalina 10.15.(B) Including Beta
 
 #### Credit: 
 - Fix/Patch: dosdude1, AsentientBot
@@ -15,6 +15,9 @@
 
 ### My result in macOS Mojave 10.14.6 beta (18G29g)
 - ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/scree126.png)
+
+### My result in macOS Catalina 10.15 beta (1)
+- ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/218.png)
 
 
 ### Download ➤ [Fix Graphics HD 3000 Mojave-10.14.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14/releases/tag/V1)

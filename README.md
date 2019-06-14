@@ -1,6 +1,6 @@
 # Fix Graphics HD 3000 Mojave-10.14 macOS Catalina-10.15
 
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/25010.png)
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/25011.png)
 
 ### A macOS Package to activate Intel HD 3000 graphics in macOS Mojave ans macOS Catalina
 - Testing on Hackintosh

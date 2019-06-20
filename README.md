@@ -25,6 +25,10 @@
 ### My result in macOS Catalina 10.15 beta (1)
 - ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/218.png)
 
+### Thanks to arqueox to report succes with a real Mac Book in macOS Catalina 10.15 beta (2)
+⬇︎
+[![Modular Image Creation](https://forums.macrumors.com/attachments/img_20190620_094459-jpg.844024/)](https://forums.macrumors.com/threads/macos-10-15-catalina-on-unsupported-macs.2183772/page-68#post-27476556)
+
 
 ### Download ➤ [Fix Graphics HD 3000 Mojave-10.14.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14/releases/tag/V1)
 

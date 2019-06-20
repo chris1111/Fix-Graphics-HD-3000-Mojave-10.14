@@ -3,7 +3,7 @@
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/25011.png)
 
 ### A macOS Package to activate Intel HD 3000 graphics in macOS Mojave ans macOS Catalina
-- Testing on Hackintosh
+- Testing on Hackintosh and Real old Mac
 - Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) macOS Catalina 10.15.(B) Including Beta
 
 #### Credit: 

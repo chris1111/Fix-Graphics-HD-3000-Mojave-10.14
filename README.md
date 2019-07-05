@@ -32,4 +32,4 @@ Clic to the image to view the post ⬇︎
 
 ### Download ➤ [Fix Graphics HD 3000 Mojave-10.14.pkg.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14/releases/tag/V1)
 
-### Download ➤ [Fix Graphics HD 3000 Catalina-10.15-V2.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14-Catalina-10.15/releases/tag/V2)
+### Download ➤ [Fix Graphics HD 3000 Catalina-10.15-V-2-3.zip](https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14-Catalina-10.15/releases/tag/V2)

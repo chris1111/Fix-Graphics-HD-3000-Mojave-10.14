@@ -22,8 +22,8 @@
 ### My result in macOS Mojave 10.14.6 beta (18G29g)
 - ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/scree126.png)
 
-### My result in macOS Catalina 10.15 beta (1)
-- ![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/218.png)
+### My result in macOS Catalina 10.15 beta (3)
+- ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu726.png)
 
 ### Thanks to arqueox to report succes with a real Mac Book in macOS Catalina 10.15 beta (2)
 Clic to the image to view the post ⬇︎

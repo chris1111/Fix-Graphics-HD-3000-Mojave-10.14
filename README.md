@@ -7,7 +7,7 @@
 - Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) macOS Catalina 10.15.(B) Including Beta
 
 #### Credit: 
-- Fix/Patch: dosdude1, AsentientBot
+- Fix/Patch: [dosdude1](https://forums.macrumors.com/members/dosdude1.669685/), [AsentientBot](https://forums.macrumors.com/members/asentientbot.1135186/)
 - Tester: chris1111, arcade33, ScreenZ, vladmvp, la7bab
 - Packager: chris1111
 

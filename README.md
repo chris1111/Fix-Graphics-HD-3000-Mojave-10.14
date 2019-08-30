@@ -6,6 +6,8 @@
 - Testing on Hackintosh and Real old Mac
 - Working for macOS Mojave 10.14.(0-1-2-3-4-5-6)
 
+## For macOS Catalina 10.15 follow this repos ➣ [Legacy Video patch](https://github.com/chris1111/Legacy-Video-patch)
+
 #### Credit: 
 - Fix/Patch: [dosdude1](https://forums.macrumors.com/members/dosdude1.669685/), [AsentientBot](https://forums.macrumors.com/members/asentientbot.1135186/)
 - Tester: chris1111, arcade33, ScreenZ, vladmvp, la7bab

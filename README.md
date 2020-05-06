@@ -1,6 +1,3 @@
-# New program Update ➤ [Legacy-Video-Patch-Mojave](https://github.com/chris1111/Legacy-Video-Patch-Mojave)
-
-
 # Fix Graphics HD 3000 Mojave-10.14
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747422.png)

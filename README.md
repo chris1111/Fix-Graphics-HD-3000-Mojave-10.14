@@ -1,4 +1,5 @@
 # Fix Graphics HD 3000 Mojave-10.14
+- Update 22 June 2020 - Fix Support macOS Mojave 10.14.6
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747422.png)
 
